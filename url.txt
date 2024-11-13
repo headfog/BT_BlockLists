@@ -11,3 +11,4 @@ https://feodotracker.abuse.ch/downloads/ipblocklist.txt
 https://iplists.firehol.org/files/nixspam.ipset
 https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
 https://pgl.yoyo.org/adservers/iplist.php?ipformat=plain&showintro=0&mimetype=plaintext
+https://raw.githubusercontent.com/PBH-BTN/BTN-Collected-Rules/refs/heads/main/combine/all.txt

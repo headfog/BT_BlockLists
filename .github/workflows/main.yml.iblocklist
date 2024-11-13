@@ -101,7 +101,7 @@ jobs:
       with:
         delete_release: true
         tag_name: master
-        repo: Naunter/BT_BlockLists
+        repo: headfog/BT_BlockLists
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
